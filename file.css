@@ -1,0 +1,46 @@
+
+
+
+.beg-tab {
+  background-color: rgb(43, 255, 0);
+
+  }
+
+  .ex-tab {
+    text-decoration: underline;
+    color: rgb(255, 0, 221);
+  }
+
+  .skill-tab {
+    height: 100px;
+    display: flex;
+    gap: 50px;
+  }
+
+  .mail-bar {
+    text-align: center;
+  }
+
+  .name-bar {
+    text-align: center;
+    font-family: fantasy;
+  }
+
+  .head-bar {
+    font-family: cursive;
+    text-align: center;
+    text-decoration: underline;
+  }
+
+  .cover-page {
+    background-color: #9fdefb;
+  }
+
+  .juju-jpeg {
+    height: 150px;
+    width: 100px;
+    display: block;
+    margin: auto;
+    border-radius: 45px;
+    box-shadow: 10px;
+  }
